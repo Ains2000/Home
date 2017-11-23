@@ -1,0 +1,6 @@
+site_name_proper,Lat,Long,Dotcolour,cases,success
+Site1,52.3,-2.3,red,30,60
+Site2,51.8,-2.5,red,80,20
+Site3,52.1,-0.1,red,50,60
+Site4,50.9,0.4,red,20,40
+Site5,51.3,-0.3,red,10,50
